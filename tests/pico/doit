@@ -1,0 +1,1 @@
+python ../../bin/gen.py pico.arch > pico.py
